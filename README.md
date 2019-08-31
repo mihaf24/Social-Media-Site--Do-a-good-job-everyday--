@@ -7,3 +7,8 @@ able to do this. Doing this project i learned a lot.
 
 Although this project is not what i thought it would be. One of my friend gave me the idea to do this project and i could not implement 
 every functionalty he asked me for. But doing this project i really learned a lot. 
+
+Here is a snapshot from the project. This is basically the home page where one can post a good job he did and can also challenge one to do a good job. 
+
+
+![](https://github.com/mihaf24/Social-Media-Site--Do-a-good-job-everyday--/blob/master/screenshot/home.PNG)
